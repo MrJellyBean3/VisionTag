@@ -1,0 +1,1 @@
+All incoming images are stored in folders p1 and p2
